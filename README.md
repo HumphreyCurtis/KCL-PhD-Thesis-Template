@@ -1,4 +1,4 @@
-# Unofficial KCL LaTeX Thesis Template
+# Unofficial KCL LaTeX PhD Thesis Template
 
 An unofficial LaTeX template for King's College London PhD thesis submissions.
 
