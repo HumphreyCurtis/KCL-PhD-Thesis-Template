@@ -38,8 +38,11 @@ This template is configured for `pdflatex`.
 Typical compilation sequence:
 
 pdflatex report.tex
+
 bibtex report
+
 pdflatex report.tex
+
 pdflatex report.tex
 
 Alternatively, use:
