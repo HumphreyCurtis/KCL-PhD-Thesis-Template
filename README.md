@@ -38,7 +38,7 @@ https://www.kcl.ac.uk/campuslife/acservices/researchdegrees/students/format-of-t
 
 ## How to Compile
 
-This template is configured for `pdflatex`.
+This template is configured for [Overleaf](https://www.overleaf.com/) and `pdflatex`
 
 Typical compilation sequence:
 
