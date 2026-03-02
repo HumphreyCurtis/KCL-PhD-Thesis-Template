@@ -20,6 +20,11 @@ This template is adapted and consolidated from several publicly available thesis
 
 It provides a modular structure suitable for large thesis projects.
 
+## Verify Formatting 
+
+Before submission, users should verify formatting requirements against the official KCL guidelines:
+https://www.kcl.ac.uk/campuslife/acservices/researchdegrees/students/format-of-thesis-and-binding
+
 ## Project Structure
 
 - `report.tex` — Main thesis entry point
@@ -37,18 +42,17 @@ This template is configured for `pdflatex`.
 
 Typical compilation sequence:
 
-pdflatex report.tex
+`pdflatex report.tex`
 
-bibtex report
+`bibtex report`
 
-pdflatex report.tex
+`pdflatex report.tex`
 
-pdflatex report.tex
+`pdflatex report.tex`
 
 Alternatively, use:
 
-latexmk -pdf report.tex
-
+`latexmk -pdf report.tex`
 
 ## Tested With
 
