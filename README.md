@@ -4,15 +4,11 @@ An unofficial LaTeX template for King's College London PhD thesis submissions.
 
 This template is designed to be clear, minimal, and easily extendable while remaining compliant with typical KCL formatting expectations.
 
----
-
 ## License
 
 This template is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
 You are free to use, modify, and distribute this template with appropriate attribution.
-
----
 
 ## Overview
 
