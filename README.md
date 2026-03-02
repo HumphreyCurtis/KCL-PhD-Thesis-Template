@@ -6,7 +6,7 @@ This template is designed to be clear, minimal, and easily extendable while rema
 
 ---
 
-## �� License
+## License
 
 This template is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
@@ -14,7 +14,7 @@ You are free to use, modify, and distribute this template with appropriate attri
 
 ---
 
-## �� Overview
+## Overview
 
 This template is adapted and consolidated from several publicly available thesis templates, including:
 
@@ -24,9 +24,7 @@ This template is adapted and consolidated from several publicly available thesis
 
 It provides a modular structure suitable for large thesis projects.
 
----
-
-## �� Project Structure
+## Project Structure
 
 - `report.tex` — Main thesis entry point
 - `packages.tex` — Centralised package configuration
@@ -37,9 +35,7 @@ It provides a modular structure suitable for large thesis projects.
 - `references.bib` — Main bibliography
 - `personal.bib` — Personal publications list
 
----
-
-## �� How to Compile
+## How to Compile
 
 This template is configured for `pdflatex`.
 
@@ -54,17 +50,15 @@ Alternatively, use:
 
 latexmk -pdf report.tex
 
----
 
-## �� Tested With
+## Tested With
 
 - Overleaf (January 2025)
 - TeXShop 5.47 (macOS Sequoia 15.2)
 - `latexmk` / `pdflatexmk`
 
----
 
-## �� Author
+## Author
 
 Created and maintained by Humphrey Curtis.
 
@@ -73,7 +67,6 @@ With helpful suggestions from:
 - Benjamin Krarup  
 - Alexandre Nevsky  
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-This is an unofficial template and is not endorsed by King's College London.  
-Users should verify formatting requirements against official university submission guidelines.
+Users should verify formatting requirements against official KCL university submission guidelines.
