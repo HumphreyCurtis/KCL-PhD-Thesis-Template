@@ -56,7 +56,7 @@ Alternatively, use:
 
 ## Tested With
 
-- Overleaf (January 2025)
+- Overleaf (March 2026)
 - TeXShop 5.47 (macOS Sequoia 15.2)
 - `latexmk` / `pdflatexmk`
 
