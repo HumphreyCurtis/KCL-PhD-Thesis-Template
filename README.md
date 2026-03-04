@@ -40,7 +40,7 @@ https://www.kcl.ac.uk/campuslife/acservices/researchdegrees/students/format-of-t
 
 This template is configured for [Overleaf](https://www.overleaf.com/) and `pdflatex`
 
-Please find the Overleaf template here: [Template](https://www.overleaf.com/latex/templates/kings-college-london-phd-thesis-template/qcfqjqwcqbyv)
+The Overleaf thesis template can be accessed here: [Template](https://www.overleaf.com/latex/templates/kings-college-london-phd-thesis-template/qcfqjqwcqbyv)
 
 Typical compilation sequence:
 
